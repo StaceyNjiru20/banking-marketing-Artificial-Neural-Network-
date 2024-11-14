@@ -10,6 +10,7 @@ What is a Term Deposit?
 A term deposit is a type of bank deposit that offers a fixed interest rate for a set period. It generally provides a higher rate than regular savings accounts, with funds accessible only upon maturity.
 
 Project Steps
+
 Data Import and Exploration: Load and perform an initial analysis of the data.
 Data Cleaning: Handle missing values, encode categorical variables, and scale numerical features.
 Model Building: Construct a deep learning model using a neural network to classify subscription outcomes.
